@@ -3,7 +3,7 @@
 // Aqui ficam os dados do seu e-mail e da autoresposta!!!
 
 $assunto = "Formulário"; //Assunto do e-mail q vai chegar na sua caixa de mensagem
-$mail = "contato@proflobo.com.br"; //E-mail que você gostaria de receber os resultados dos formmail's
+$mail = "professormatheuslobo@gmail.com"; //E-mail que você gostaria de receber os resultados dos formmail's
 $assunto_auto = "$nome, Sua Mensagem Foi Recebida Com Sucesso!";//Assunto da Auto Resposta
 $website =  "ProfLobo";//Nome do Website
 $url_website = "www.proflobo.com.br";//Url do Website

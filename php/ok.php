@@ -16,7 +16,7 @@
 
 <p>Redirecionado para pagina principal, aguarde... </p>
 <p>&nbsp;</p>
-<meta http-equiv="refresh" content="5; URL='http://proflobo.com.br/generation/'"/>
+<meta http-equiv="refresh" content="5; URL='http://www.proflobo.com.br/'"/>
 
 </div>
 </body>
