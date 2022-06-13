@@ -197,3 +197,9 @@ textarea .field {
     text-shadow: #333;
     background-color: black;
 }
+
+#consultabiblioteca{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
